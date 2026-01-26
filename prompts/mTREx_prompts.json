@@ -1,0 +1,77 @@
+{
+  "English": {
+    "system": "Suppose your job is to answer given questions in English. When you are asked a question in English, please give a brief answer in English only. Do not write anything else except the answer. \n",
+    "capitals": {
+      "user": "Question: What is the capital of {source}? \n",
+      "asst": "Answer (in English): "
+    },
+    "country": {
+      "user": "Question: In which country is the {source} located? \n",
+      "asst": "Answer (in English): "
+    },
+    "official_language": {
+      "user": "Question: What is the official language of the {source}? \n",
+      "asst": "Answer (in English): "
+    }
+  },
+  "Hindi": {
+    "system": "मान लीजिए कि आपका काम हिंदी में सवालों के जवाब देना है। जब आपसे हिंदी में कोई सवाल पूछा जाए, तो कृपया उसका संक्षिप्त जवाब हिंदी में ही दें। जवाब के अलावा कुछ और न लिखें। \n",
+    "capitals": {
+      "user": "प्रश्न: {source} की राजधानी क्या है? \n",
+      "asst": "उत्तर (हिंदी में): "
+    },
+    "country": {
+      "user": "प्रश्न: {source} किस देश में स्थित है? \n",
+      "asst": "उत्तर (हिंदी में): "
+    },
+    "official_language": {
+      "user": "प्रश्न: {source} की आधिकारिक भाषा क्या है? \n",
+      "asst": "उत्तर (हिंदी में): "
+    }
+  }, 
+  "Bengali": {
+    "system": "ধরুন আপনার কাজ হল বাংলায় প্রশ্নের উত্তর দেওয়া। যখন আপনাকে বাংলায় প্রশ্ন করা হবে, অনুগ্রহ করে শুধুমাত্র বাংলায় একটি সংক্ষিপ্ত উত্তর দিন। উত্তর ছাড়া অন্য কিছু লিখবেন না। \n",
+    "capitals": {
+      "user": "প্রশ্ন: {source} এর রাজধানী কি? \n",
+      "asst": "উত্তর (বাংলায়): "
+    },
+    "country": {
+      "user": "প্রশ্ন: কোন দেশে {source} অবস্থিত? \n",
+      "asst": "উত্তর (বাংলায়): "
+    },
+    "official_language": {
+      "user": "প্রশ্ন: {source} এর সরকারী ভাষা কী? \n",
+      "asst": "উত্তর (বাংলায়): "
+    }
+  }, 
+  "Deutsch": {
+    "system": "Angenommen, Ihre Aufgabe ist es, Fragen auf Deutsch zu beantworten. Wenn Ihnen eine Frage auf Deutsch gestellt wird, geben Sie bitte eine kurze Antwort auf Deutsch. Nichts außer der Antwort. \n",
+    "capitals": {
+      "user": "Frage: Was ist die Hauptstadt von {source}? \n",
+      "asst": "Antwort (auf Deutsch): "
+    },
+    "country": {
+      "user": "Frage: In welchem Land liegt die {source}? \n",
+      "asst": "Antwort (auf Deutsch): "
+    },
+    "official_language": {
+      "user": "Frage: Was ist die Amtssprache von {source}? \n",
+      "asst": "Antwort (auf Deutsch): "
+    }
+  }, 
+  "Urdu": {
+    "system": "فرض کریں آپ کا کام اردو میں سوالوں کے جواب دینا ہے۔ جب آپ سے اردو میں کوئی سوال پوچھا جائے تو برائے مہربانی مختصر جواب صرف اردو میں دیں۔ جواب کے علاوہ کچھ نہ لکھیں۔ \n",
+    "capitals": {
+      "user": "سوال: {source} کا دارالحکومت کیا ہے؟ \n",
+      "asst": "جواب (اردو میں): "
+    },
+    "country": {
+      "user": "سوال: {source} کس ملک میں واقع ہے؟ \n",
+      "asst": "جواب (اردو میں): "
+    },
+    "official_language": {
+      "user": "سوال: {source} کی سرکاری زبان کیا ہے؟ \n",
+      "asst": "جواب (اردو میں): "
+    }
+  } 
+}

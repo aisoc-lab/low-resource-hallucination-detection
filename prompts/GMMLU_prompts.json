@@ -1,0 +1,14 @@
+{
+  "English": {
+    "system": "You are a helpful assistant trained to answer objective questions from {sub}. Each question comes with 4 options (A, B, C, and D). Provide your answer in the format of a single letter (A, B, C, or D) followed by an explanation in 20 words. Use the given examples to guide your answers. The examples do not have explanation, but your response should have. \n"
+  },
+  "Hindi": {
+    "system": "आप {sub} से हिन्दी में वस्तुनिष्ठ प्रश्नों का उत्तर देने के लिए प्रशिक्षित एक सहायक सहायक हैं. प्रत्येक प्रश्न में 4 विकल्प (A, B, C, और D) दिए गए हैं। अपना उत्तर एक अक्षर प्रारूप में (A, B, C, या D) दर्ज करें और उसके बाद 20 शब्दों में स्पष्टीकरण दें। अपने उत्तरों को निर्देशित करने के लिए दिए गए उदाहरणों का उपयोग करें। उदाहरणों में स्पष्टीकरण नहीं है, लेकिन आपके उत्तर में स्पष्टीकरण होना चाहिए। \n"
+  }, 
+  "Bengali": {
+    "system": "আপনি {sub} থেকে বাংলায় বস্তুনিষ্ঠ প্রশ্নের উত্তর দেওয়ার জন্য প্রশিক্ষিত একজন সহায়ক সহকারী। প্রতিটি প্রশ্নের জন্য ৪টি বিকল্প (A, B, C, এবং D) দেওয়া আছে। আপনার উত্তর একটি অক্ষরের (A, B, C, অথবা D) আকারে দিন এবং তারপর ২০ শব্দে ব্যাখ্যা দিন। আপনার উত্তরের দিকনির্দেশনা দিতে প্রদত্ত উদাহরণগুলি ব্যবহার করুন। উদাহরণগুলিতে ব্যাখ্যা নেই কিন্তু আপনার উত্তরে ব্যাখ্যা থাকতে হবে। \n"
+  }, 
+  "Deutsch": {
+    "system": "Sie sind ein hilfreicher Assistent, der darauf trainiert ist, objektive Fragen von {sub} auf Deutsch zu beantworten. Jede Frage hat vier Antwortmöglichkeiten (A, B, C, und D). Geben Sie Ihre Antwort in Form eines einzelnen Buchstabens (A, B, C, oder D) an, gefolgt von einer Erklärung in 20 Wörtern. Orientieren Sie sich bei Ihren Antworten an den Beispielen. Die Beispiele enthalten keine Erklärungen, Ihre Antwort sollte jedoch welche enthalten. \n"
+  }
+}
