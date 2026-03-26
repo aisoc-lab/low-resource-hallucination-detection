@@ -1,6 +1,6 @@
 # Do LLM hallucination detectors suffer from low-resource effect?
 
-Long Paper accepted at the **EACL 2026 Main Conference!** <a href="https://arxiv.org/abs/2601.16766">[ArXiv Link]</a>. This repository contains the dataset along with all scripts developed in this work for data curation, prompting, hallucination detection, cross-lingual and multilingual experiments, and entropy analyses.
+Long Paper accepted at the **EACL 2026 Main Conference!** <a href="https://aclanthology.org/2026.eacl-long.136/">[Paper]</a> <a href="https://drive.google.com/file/d/1U7dOsSGxOzR9QbdeeDkWbd7HjW6lWH5f/view?usp=drive_link">[Slides]</a>. This repository contains the dataset along with all scripts developed in this work for data curation, prompting, hallucination detection, cross-lingual and multilingual experiments, and entropy analyses.
 
 ## Dataset: mTREx
 
@@ -78,13 +78,21 @@ This project is released under the license specified in the `LICENSE` file.
 ## Citation
 If you find this research useful in your work or you use this dataset / code, please cite the following paper:
 ```
-@misc{datta2026llmhallucinationdetectorssuffer,
-      title={Do LLM hallucination detectors suffer from low-resource effect?}, 
-      author={Debtanu Datta and Mohan Kishore Chilukuri and Yash Kumar and Saptarshi Ghosh and Muhammad Bilal Zafar},
-      year={2026},
-      eprint={2601.16766},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.16766}, 
+@inproceedings{datta-etal-2026-llm,
+    title = "Do {LLM} hallucination detectors suffer from low-resource effect?",
+    author = "Datta, Debtanu  and
+      Chilukuri, Mohan Kishore  and
+      Kumar, Yash  and
+      Ghosh, Saptarshi  and
+      Zafar, Muhammad Bilal",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.136/",
+    doi = "10.18653/v1/2026.eacl-long.136",
+    pages = "2959--2985",
+    ISBN = "979-8-89176-380-7"
 }
 ```
